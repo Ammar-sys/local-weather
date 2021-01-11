@@ -14,3 +14,5 @@ py -m pip install requirements.txt
 Make sure to include your authoritisation (api key) in the variables from following websites
 > stormglass.io
 > ipstack.com
+
+The code automatically detects your aproximate location from your IP address ( I don't store it ) and gives the weather in your area.
