@@ -65,7 +65,7 @@ def avg(arg):
     return round(sum(arg) / len(arg), 2)
 
 def github_repo():
-    webbrowser.open('https://github.com/Ammar-sys/weather_gui')
+    webbrowser.open('https://github.com/Ammar-sys/local-weather/')
 
 local_info = fetch_info()
 
